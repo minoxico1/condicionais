@@ -1,0 +1,22 @@
+
+
+
+body {
+    background-color: rgb(235, 79, 227);
+    color: aqua;
+  }
+  
+  input{
+    color: rgb(0, 0, 110);
+    background-color: aqua;
+    border-color: blueviolet;
+  }
+
+  button{
+    color: rgb(0, 0, 110);
+    background-color: aqua;
+    border-color: blueviolet;
+    
+    
+  }
+
